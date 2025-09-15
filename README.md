@@ -4,8 +4,7 @@
 The code uses matplotlib to create an image of a basketball half court, with NBA dimensions from 
 *[the official NBA website](https://official.nba.com/rule-no-1-court-dimensions-equipment/)*.
 
-Inspired by the implementation from
-*[this Medium article from user @namnguyen93](https://medium.com/@namnguyen93/a-quick-look-into-visualizing-nba-shot-data-24756665565b)*.
+Inspired by and modified from the implementation in *[this Medium article from @namnguyen93](https://medium.com/@namnguyen93/a-quick-look-into-visualizing-nba-shot-data-24756665565b)*, [github repo](https://github.com/NammySosa/NBA-Shot-Data-2021-2022/tree/main).
 
 The resulting image will be used as background for projects to display shot charts.
 
